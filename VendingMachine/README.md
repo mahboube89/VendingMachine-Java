@@ -6,9 +6,9 @@ This Java application simulates a simple vending machine that offers various dri
 
 
 ## App-Screenshot
-![App-Screenshot](VendingMachine/Screenshots/VendingMachine1.png)
-![App-Screenshot](VendingMachine/Screenshots/VendingMachine2.png)
-![App-Screenshot](VendingMachine/Screenshots/VendingMachine3.png)
+![App-Screenshot](Screenshots/VendingMachine1.png)
+![App-Screenshot](Screenshots/VendingMachine2.png)
+![App-Screenshot](Screenshots/VendingMachine3.png)
 
 
 ## Features
