@@ -40,4 +40,4 @@ After completing a transaction, decide whether to continue using the vending mac
 
 ### Contributor
 
-git@github.com:mahboube89/JavaLearn.git
+git@github.com:mahboube89/VendingMachine-Java.git
